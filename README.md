@@ -12,5 +12,5 @@
 #  ![Executable](https://img.shields.io/badge/-Executable-282A36?style=flat&logo=Executable)&nbsp;
 
 # ![Python](https://img.shields.io/badge/-Python-282A36?style=flat&logo=Python)&nbsp;
-# <img src="https://i.ibb.co/rdqP34v/500091100578-132160.jpg" width="300" height="300">
+
 
